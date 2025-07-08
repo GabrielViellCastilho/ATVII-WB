@@ -6,7 +6,7 @@ Este projeto é desenvolvido com React e TypeScript. Abaixo estão os passos par
 
 Antes de começar, verifique se você tem as seguintes ferramentas instaladas:
 
-- [Node.js](https://nodejs.org/) (versão recomendada: 18.x ou superior)
+- [Node.js](https://nodejs.org/) (versão recomendada: 20.x ou superior)
 - [Git](https://git-scm.com/)
 
 ## Como rodar o projeto
